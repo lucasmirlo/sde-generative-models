@@ -20,7 +20,7 @@ proyecto_AAIII_02_diffusion_models/
 │   ├── legacy/                     # Original trajectory-simulation API (backward compat.)
 │   └── model.py                    # GenerativeDiffusionModel (train / sample / BPD)
 │
-├── project_AAIII_teamCode_lastName1_lastName2.ipynb   # Main project notebook
+├── project_AAIII_team12_Miranda_Dominguez.ipynb   # Main project notebook
 ├── fid_ve_vp.ipynb                 # FID comparison: VE vs VP schedules
 ├── samplers_vp_exp.ipynb           # Sampler comparison on VP-Cosine
 ├── conditional_and_imputation.ipynb # CFG conditional generation + inpainting
